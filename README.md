@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-👩‍🎓 CSE Undergraduate from Malla Reddy University, Hyderabad </br>
+👩‍🎓 CSE Undergraduate from Malla Reddy University </br>
 📍 India </br>
 
 ### 💌 Socials
