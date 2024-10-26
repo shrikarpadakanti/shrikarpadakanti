@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 [![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://www.x.com/in/shrikar8435/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/shrikar.padakanti/)
 [![Leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=LeetCode&logoColor=black)](https://leetcode.com/u/SHRIKAR8435/)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-111111?style=flat&logo=Portfolio&logoColor=white)](https://shrikarpadakanti.wixsite.com/portfolio)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-FFFFFF?style=flat&logo=Portfolio&logoColor=white)](https://shrikarpadakanti.wixsite.com/portfolio)
 
 ### 👩‍💻 Technical skills
 
