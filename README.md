@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 👩‍🎓 Undergraduate CSE, Malla Reddy University </br>
-🌱 **Actively looking for Full-time software roles** </br>
 📍 India </br>
 
 ### 💌 Socials
