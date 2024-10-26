@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 👨🏻‍🎓 CSE Undergraduate from Malla Reddy University </br>
-🏠︎ India </br>
+📍 India </br>
 
 ### 🌐 Socials
 
