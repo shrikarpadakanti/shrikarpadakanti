@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 
 ### 🌐 Socials
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shrikarpadakanti/)
 [![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/SHRIKAR8435)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/shrikar.padakanti/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shrikarpadakanti/)
 [![Leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=LeetCode&logoColor=black)](https://leetcode.com/u/SHRIKAR8435/)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-FFFFFF?style=flat&logo=Portfolio&logoColor=white)](https://shrikarpadakanti.wixsite.com/portfolio)
 
