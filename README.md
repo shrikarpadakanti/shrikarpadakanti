@@ -29,9 +29,8 @@ Here are some ideas to get you started:
 #### ● Programming Languages
 <p>
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-  <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white"/>
+  <img alt="TypeScript" src="https://img.shields.io/badge/JavaScript-3178C6?style=flat&logo=typescript&logoColor=white"/>
   <img alt="C" src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black"/>
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/>
 </p>
 
 #### ● Databases
