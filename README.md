@@ -1,4 +1,4 @@
-<h2 align="center">Hi there!👋🏻, I'm Shrikar Padakanti</h2>
+<h2 align="center">Hi there!👋🏻, I'm Mohan Sai Shrikar Padakanti</h2>
 
 <!--
 **shrikarpadakanti/shrikarpadakanti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-👨🏻‍🎓 CSE Undergraduate from Malla Reddy University </br>
-📍 India </br>
+👨🏻‍🎓 Computer Science Graduate </br>
+📍 Hyderabad, Telangana, India </br>
 
 ### 🌐 Socials
 
